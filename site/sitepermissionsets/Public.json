@@ -1,0 +1,11 @@
+{
+	"name": "Public",
+	"enableSignupApi": false,
+	"enableSignupUi": false,
+	"permissionSet": {
+		"name": "Public",
+		"appPermissions": {},
+		"dataSourcePermissions": {}
+	},
+	"requireEmailVerificationOnSignup": true
+}

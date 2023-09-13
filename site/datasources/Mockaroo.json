@@ -1,0 +1,22 @@
+{
+	"name": "Mockaroo",
+	"authRequestBody": null,
+	"authRequestBodyContentType": null,
+	"authRequestHeaders": null,
+	"authRequestVerb": "POST",
+	"authUrl": null,
+	"authentication": "none",
+	"config": null,
+	"credentialSource": "none",
+	"isControlled": false,
+	"nameIdentifierFormula": "{{$User.FirstName}}@skuid.com",
+	"requestBodyParameters": null,
+	"requestHeaders": null,
+	"requestUrlParameters": {
+		"key": "3d251530"
+	},
+	"type": "REST",
+	"url": "https://my.api.mockaroo.com",
+	"useProxy": true,
+	"version": null
+}

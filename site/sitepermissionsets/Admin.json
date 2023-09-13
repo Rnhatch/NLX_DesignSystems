@@ -1,0 +1,13 @@
+{
+	"name": "Admin",
+	"enableSignupApi": false,
+	"enableSignupUi": false,
+	"permissionSet": {
+		"name": "Admin",
+		"appPermissions": {},
+		"dataSourcePermissions": {
+			"Mockaroo": {}
+		}
+	},
+	"requireEmailVerificationOnSignup": true
+}

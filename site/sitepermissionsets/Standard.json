@@ -1,0 +1,11 @@
+{
+	"name": "Standard",
+	"enableSignupApi": false,
+	"enableSignupUi": false,
+	"permissionSet": {
+		"name": "Standard",
+		"appPermissions": {},
+		"dataSourcePermissions": {}
+	},
+	"requireEmailVerificationOnSignup": true
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Skuid",
+	"localization": {
+		"defaultLanguage": "en",
+		"defaultLocale": "en",
+		"defaultTimezone": "America/New_York"
+	},
+	"security": {
+		"absoluteTimeout": 240,
+		"ipAllowlist": null,
+		"passwordTokenExpiration": 720,
+		"roamingSessions": false,
+		"sessionActivityTimeout": 30
+	},
+	"sso": {
+		"enabled": false,
+		"loginHeading": null,
+		"loginSubHeading": null,
+		"ssoDefaultPage": "SSO",
+		"ssoLoginOnly": false
+	}
+}
